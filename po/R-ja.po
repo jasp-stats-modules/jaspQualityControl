@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: jaspQualityControl 0.95.0\n"
-"POT-Creation-Date: 2026-08-08 04:00\n"
+"POT-Creation-Date: 2026-09-05 03:43\n"
 "PO-Revision-Date: 2026-08-10 14:03+0000\n"
 "Last-Translator: Koji Kosugi <kosugitti@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jasp/"
@@ -436,14 +436,14 @@ msgstr "観測分位点"
 msgid "Histogram of Residuals"
 msgstr "残差のヒストグラム"
 
+msgid "Residuals"
+msgstr "残差"
+
 msgid "Residuals versus Fitted Values"
 msgstr "残差とあてはめ値"
 
 msgid "Fitted values"
 msgstr "あてはめ値"
-
-msgid "Residuals"
-msgstr "残差"
 
 msgid "Residuals versus Run Order"
 msgstr "残差と実行順序"

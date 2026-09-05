@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: jaspQualityControl 0.96.0\n"
-"POT-Creation-Date: 2026-08-08 04:00\n"
+"POT-Creation-Date: 2026-09-05 03:43\n"
 "PO-Revision-Date: 2026-08-24 01:51+0000\n"
 "Last-Translator: Zahid Rizky Fakhri <zahidrizkyfakhri@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jasp/"
@@ -423,14 +423,14 @@ msgstr ""
 msgid "Histogram of Residuals"
 msgstr ""
 
+msgid "Residuals"
+msgstr "Residu"
+
 msgid "Residuals versus Fitted Values"
 msgstr ""
 
 msgid "Fitted values"
 msgstr ""
-
-msgid "Residuals"
-msgstr "Residu"
 
 msgid "Residuals versus Run Order"
 msgstr ""

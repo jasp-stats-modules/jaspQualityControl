@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: jaspQualityControl 0.97.1\n"
-"POT-Creation-Date: 2026-08-08 04:00\n"
+"POT-Creation-Date: 2026-09-05 03:43\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -421,13 +421,13 @@ msgstr ""
 msgid "Histogram of Residuals"
 msgstr ""
 
+msgid "Residuals"
+msgstr ""
+
 msgid "Residuals versus Fitted Values"
 msgstr ""
 
 msgid "Fitted values"
-msgstr ""
-
-msgid "Residuals"
 msgstr ""
 
 msgid "Residuals versus Run Order"

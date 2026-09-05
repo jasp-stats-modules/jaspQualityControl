@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: jaspQualityControl 0.17.2.1\n"
-"POT-Creation-Date: 2026-08-08 04:00\n"
+"POT-Creation-Date: 2026-09-05 03:43\n"
 "PO-Revision-Date: 2026-01-28 10:47+0000\n"
 "Last-Translator: Wendel Paulo Silvestre <wpsilvestre@ucs.br>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/jasp/"
@@ -439,14 +439,14 @@ msgstr "Quantis observados"
 msgid "Histogram of Residuals"
 msgstr "Histograma dos Resíduos"
 
+msgid "Residuals"
+msgstr "Resíduos"
+
 msgid "Residuals versus Fitted Values"
 msgstr "Resíduos versus Valores Ajustados"
 
 msgid "Fitted values"
 msgstr "Valores ajustados"
-
-msgid "Residuals"
-msgstr "Resíduos"
 
 msgid "Residuals versus Run Order"
 msgstr "Resíduos versus Ordem de Execução"

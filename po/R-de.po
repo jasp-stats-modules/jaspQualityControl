@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: jaspQualityControl 0.16\n"
-"POT-Creation-Date: 2026-08-08 04:00\n"
+"POT-Creation-Date: 2026-09-05 03:43\n"
 "PO-Revision-Date: 2026-08-30 05:51+0000\n"
 "Last-Translator: Johannes Keyser <joke@fsfe.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jasp/"
@@ -446,14 +446,14 @@ msgstr "Beobachtet"
 msgid "Histogram of Residuals"
 msgstr "Histogramm der Residuen"
 
+msgid "Residuals"
+msgstr "Residuen"
+
 msgid "Residuals versus Fitted Values"
 msgstr "Residuen vs. angepasste Werte"
 
 msgid "Fitted values"
 msgstr "Angepasste Werte"
-
-msgid "Residuals"
-msgstr "Residuen"
 
 msgid "Residuals versus Run Order"
 msgstr "Residuen vs. Ablaufreihenfolge"
